@@ -2,9 +2,6 @@
 
 Ứng dụng phát nhạc đơn giản viết bằng Flutter, sử dụng Firebase làm backend (Auth, Firestore, Storage).
 
-**Nội dung README này bao gồm:** cài đặt, cấu hình Firebase, các màn hình chính, cách chạy và đóng góp.
-
-**File chính:** [lib/main.dart](lib/main.dart#L1)
 
 ## Tính năng
 - Đăng nhập / Đăng ký bằng Firebase Auth ([lib/auth_screen.dart](lib/auth_screen.dart#L1)).
